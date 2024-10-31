@@ -17,8 +17,8 @@ Also some of the functions are struct-oriented so you do `window.<function>` whi
 A simple usage of the package can be found in the [example](./examples/) folder.
 
 ## Authors
-@duarteroso
-@noxomix
+- @duarteroso
+- @noxomix
 
 ## License
 [MIT License](https://opensource.org/license/mit)
